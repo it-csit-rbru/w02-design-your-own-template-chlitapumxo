@@ -5,4 +5,4 @@
 ## email 6015261014@rbru.ac.th
 
 [wed site]
-{http://stu2.rbru.ac.th/~s6015261014}
+(http://stu2.rbru.ac.th/~s6015261014)
